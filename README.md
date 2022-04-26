@@ -1,6 +1,7 @@
-# Exercício Continuous Delivery
+# Continuous Delivery Exercise
 
-Esta é uma aplicação baseada em Node.js utilizada para exercitar conceitos de Continuous Delivery (CD)
+Node.js based application deployed in Azure App Service in order to pratice Continuous Delivery (CD) concepts.
+Solution counts with gitHub Actions in order to deploy the application from this repo to Azure automatically after a `git push`.
 
 \* Based on the work of [Dan Arias](https://twitter.com/getDanArias): <https://auth0.com/blog/create-a-simple-and-stylish-node-express-app>
 
